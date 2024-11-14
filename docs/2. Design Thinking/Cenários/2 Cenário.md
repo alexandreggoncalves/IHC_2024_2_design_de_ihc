@@ -1,22 +1,15 @@
-# Cenário de Interação entre as Personas 1 (Clara Mendes), 2 (Lucas Oliveira) e 3 (Mariana Souza)
+# Cenário de Interação entre Clara Mendes, Lucas Oliveira e Mariana Souza
 
 ## Contexto
-- **Lucas Oliveira:** Psicólogo especialista em transtornos alimentares, busca ampliar seu atendimento para impactar mais vidas, criando grupos de apoio.
-- **Clara Mendes:** Designer gráfica freelancer, enfrenta desafios relacionados ao isolamento e um episódio recente de compulsão alimentar.
-- **Mariana Souza:** Engenheira de software e sobrevivente da anorexia, compartilha sua jornada de superação para ajudar outros na recuperação.
+- **Lucas Oliveira** é um psicólogo especializado em transtornos alimentares que deseja expandir seu impacto, organizando grupos de apoio para alcançar mais pessoas.
+- **Clara Mendes**, designer gráfica freelancer, enfrenta o isolamento e lida com um episódio recente de compulsão alimentar.
+- **Mariana Souza**, engenheira de software que superou a anorexia, utiliza sua experiência para ajudar outras pessoas em recuperação.
 
 ## Situação
-Lucas decide organizar um encontro virtual focado em histórias de superação e apoio comunitário. Ele convida Mariana para compartilhar sua trajetória e Clara para participar como uma ouvinte que poderá interagir. O objetivo é proporcionar um ambiente seguro e inspirador aos participantes.
+Lucas decide organizar um encontro virtual com o tema "Histórias de Superação e Apoio Comunitário." Ele convida Mariana para compartilhar sua trajetória e Clara para participar como ouvinte, com a liberdade para interagir e compartilhar suas experiências. O objetivo é oferecer um ambiente seguro e inspirador para todos os participantes.
 
 ## Interação
-Durante a sessão:
-1. Mariana compartilha sua experiência, destacando como encontrou forças para superar a anorexia e a importância do apoio coletivo.
-2. Clara se sente tocada pelas palavras de Mariana e compartilha brevemente sua luta com a compulsão alimentar e o impacto do isolamento.
-3. Mariana responde com empatia, oferecendo conselhos baseados em suas experiências.
-4. Lucas modera a conversa, incentivando a troca de ideias e destacando estratégias de superação que podem ajudar Clara e outros participantes.
+Durante a sessão, Mariana conta sua história de superação, enfatizando as dificuldades que enfrentou e o papel crucial do apoio comunitário em sua recuperação. Clara se sente profundamente tocada pelo relato e compartilha, de forma breve, sua própria experiência com a compulsão alimentar e o impacto do isolamento em sua vida. Mariana responde com empatia, oferecendo conselhos práticos baseados em sua vivência. Lucas modera a conversa, incentivando a troca de ideias e destacando estratégias de superação para Clara e outros presentes.
 
 ## Resultado
-- **Clara:** Sai do encontro motivada e menos solitária, percebendo que não está sozinha em sua jornada. Ela aceita a sugestão de Lucas para participar de encontros regulares e começa a interagir mais com outros membros.
-- **Mariana:** Sente-se gratificada em ajudar alguém a encontrar esperança e conexão.
-- **Lucas:** Vê a interação como um exemplo positivo de como histórias reais e grupos de apoio podem transformar vidas, planejando mais encontros com a colaboração de ambos.
-
+Clara sai do encontro motivada e com uma sensação de acolhimento, percebendo que não está sozinha em sua jornada. Ela aceita a sugestão de Lucas para participar de encontros regulares e começa a interagir mais com outros membros. Mariana se sente gratificada por poder ajudar alguém a encontrar esperança e conexão. Lucas considera essa interação um exemplo positivo do poder transformador de histórias reais em um grupo de apoio e planeja futuros encontros, contando com a colaboração de Mariana e Clara para fortalecer a rede de apoio na plataforma.
