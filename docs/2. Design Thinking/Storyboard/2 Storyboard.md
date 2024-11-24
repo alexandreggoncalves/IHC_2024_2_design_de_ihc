@@ -1,4 +1,4 @@
-# Storyboard Cena 2 - Iteração entre Lucas (persona 2) e Mariana (persona 3)
+# Storyboard Cenário de Interação 2 - Iteração entre Lucas (persona 2) e Mariana (persona 3)
 
 ![Cell-Row-0-Col-0](https://github.com/user-attachments/assets/768f69b3-4da6-48fb-96d6-3b6f9ed0eaf2)
 
