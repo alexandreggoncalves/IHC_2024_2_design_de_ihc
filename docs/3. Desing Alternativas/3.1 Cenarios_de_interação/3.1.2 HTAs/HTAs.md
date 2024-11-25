@@ -11,3 +11,7 @@
 
 # HTA de Informações
 ![hta_informacoes drawio](https://github.com/user-attachments/assets/abe028ab-e6f8-42aa-b157-f2d4a63bbe95)
+
+
+# HTA de Rede de Apoio
+![hta_rede_de_apoio drawio](https://github.com/user-attachments/assets/eed4df24-b307-4de6-92f2-8c90dd29018f)
