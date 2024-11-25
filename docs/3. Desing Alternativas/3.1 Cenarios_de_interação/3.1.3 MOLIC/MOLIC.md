@@ -5,4 +5,4 @@
 
 
 ## Editar perfil / Validar perfil profissional / Validar perfil centro de apoio
-![molic2 drawio](https://github.com/user-attachments/assets/8476270a-fc85-4df2-a516-2b0adcf86a6d)
+![molic2 drawio(1)](https://github.com/user-attachments/assets/5e407e3e-da95-4c05-bf68-fae79d9ebbf1)
