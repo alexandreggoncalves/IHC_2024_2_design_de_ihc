@@ -28,4 +28,9 @@ O diretório foi organizado conforme orientações do professor.
 | 2 . Personas - Persona 3                         | [Persona 3](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/2.%20Design%20Thinking/Personas/3%20Persona.md) | persona 3, Mariana Souza |
 | 2 . Storyboard - Storyboard 1                    | [Storyboard 1](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/2.%20Design%20Thinking/Storyboard/1%20Storyboard.md) | storyboard do primeiro cenário |
 | 2 . Storyboard - Storyboard 2                    | [Storyboard 2](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/2.%20Design%20Thinking/Storyboard/2%20Storyboard.md) | storyboard do segundo cenário |
+| 3 . Cenário de Interação                         | [Cenário de Interação](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.1%20Cen%C3%A1rios_de_intera%C3%A7%C3%A3o/3.1.1.1%20Cen%C3%A1rios_de_intera%C3%A7%C3%A3o.md) | Cenário de interação |
+| 3 . HTAs                                         | [HTA](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.2%20HTAS/3.1.2.1%20HTA.md) | Diagramas HTA |
+| 3 . MOLIC                                         | [MOLIC](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.3%20MOLIC/3.1.3.1%20MOLIC.md) | Diagramas MOLIC |
+| 3 . Metamensagem                                         | [Metamensagem](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.4%20-%20Metamensagem.md) | Metamensagem |
+
 
