@@ -32,5 +32,7 @@ O diretório foi organizado conforme orientações do professor.
 | 3 . HTAs                                         | [HTA](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.2%20HTAS/3.1.2.1%20HTA.md) | Diagramas HTA |
 | 3 . MOLIC                                         | [MOLIC](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.3%20MOLIC/3.1.3.1%20MOLIC.md) | Diagramas MOLIC |
 | 3 . Metamensagem                                         | [Metamensagem](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.1%20Design_Conceitual/3.1.4%20-%20Metamensagem.md) | Metamensagem |
+| 3 . Sketches                                         | [Sketches](https://github.com/alexandreggoncalves/IHC_2024_2_design_de_ihc/blob/main/docs/3.%20Desing%20Alternativas/3.2%20Design_F%C3%ADsico/3.2.1%20Sketches.md) | Sketches do APP |
+
 
 
