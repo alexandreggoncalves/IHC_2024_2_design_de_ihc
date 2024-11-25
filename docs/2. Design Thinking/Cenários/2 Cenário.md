@@ -1,15 +1,41 @@
-# Cenário de Interação entre Clara Mendes, Lucas Oliveira e Mariana Souza
+# **Cenário de Interação: Lucas Oliveira e Mariana Souza (Suporte)**  
 
-## Contexto
-- **Lucas Oliveira** é um psicólogo especializado em transtornos alimentares que deseja expandir seu impacto, organizando grupos de apoio para alcançar mais pessoas.
-- **Clara Mendes**, designer gráfica freelancer, enfrenta o isolamento e lida com um episódio recente de compulsão alimentar.
-- **Mariana Souza**, engenheira de software que superou a anorexia, utiliza sua experiência para ajudar outras pessoas em recuperação.
+## **Contexto**  
+- **Lucas Oliveira** é psicólogo especializado em transtornos alimentares, buscando expandir seu atendimento por meio de uma plataforma online para criar grupos de apoio e oferecer consultas virtuais.  
+- A plataforma exige a validação de cadastro dos profissionais para garantir a segurança e legitimidade dos serviços prestados.  
 
-## Situação
-Lucas decide organizar um encontro virtual com o tema "Histórias de Superação e Apoio Comunitário." Ele convida Mariana para compartilhar sua trajetória e Clara para participar como ouvinte, com a liberdade para interagir e compartilhar suas experiências. O objetivo é oferecer um ambiente seguro e inspirador para todos os participantes.
+---
 
-## Interação
-Durante a sessão, Mariana conta sua história de superação, enfatizando as dificuldades que enfrentou e o papel crucial do apoio comunitário em sua recuperação. Clara se sente profundamente tocada pelo relato e compartilha, de forma breve, sua própria experiência com a compulsão alimentar e o impacto do isolamento em sua vida. Mariana responde com empatia, oferecendo conselhos práticos baseados em sua vivência. Lucas modera a conversa, incentivando a troca de ideias e destacando estratégias de superação para Clara e outros presentes.
+## **Situação**  
+Após realizar o cadastro inicial na plataforma, Lucas precisa validar suas credenciais para acessar todas as funcionalidades. Ele entra em contato com o suporte técnico, onde **Mariana Souza**, agente responsável, conduz o processo de validação.  
 
-## Resultado
-Clara sai do encontro motivada e com uma sensação de acolhimento, percebendo que não está sozinha em sua jornada. Ela aceita a sugestão de Lucas para participar de encontros regulares e começa a interagir mais com outros membros. Mariana se sente gratificada por poder ajudar alguém a encontrar esperança e conexão. Lucas considera essa interação um exemplo positivo do poder transformador de histórias reais em um grupo de apoio e planeja futuros encontros, contando com a colaboração de Mariana e Clara para fortalecer a rede de apoio na plataforma.
+---
+
+## **Interação com o Suporte**  
+
+### **1. Cadastro Inicial**  
+- Lucas preencheu previamente seu perfil com informações básicas, como nome completo, especialização, e detalhes de contato.  
+- Ele recebe uma notificação solicitando o envio de documentos como diploma e registro profissional para validação.  
+
+### **2. Contato com Mariana Souza**  
+- Lucas acessa o chat integrado para esclarecer dúvidas sobre o envio dos documentos e o processo de validação.  
+- **Mariana Souza**, com cordialidade, responde rapidamente e orienta Lucas sobre como digitalizar e fazer o upload correto dos arquivos.  
+- Durante a interação, Mariana verifica os documentos enviados em tempo real. Caso haja inconsistências ou arquivos faltando, ela orienta Lucas a corrigir as pendências.  
+
+### **3. Validação das Credenciais**  
+- Mariana analisa os documentos enviados, verificando sua conformidade com os critérios da plataforma.  
+- Após a aprovação, ela informa a Lucas que seu perfil foi validado, permitindo o acesso completo às funcionalidades da plataforma.  
+
+### **4. Acompanhamento Técnico**  
+- Mariana aproveita a oportunidade para enviar a Lucas um guia detalhado sobre como criar e gerenciar eventos, incluindo:  
+  - Configuração de grupos de apoio.  
+  - Envio de convites e gerenciamento de participantes.  
+- Ela também sugere práticas eficazes para manter o engajamento dos participantes durante os encontros.  
+- Mariana reforça que está disponível para resolver quaisquer dúvidas ou problemas técnicos no futuro.  
+
+---
+
+## **Resultado**  
+- Lucas conclui a validação de forma ágil e sem complicações, ganhando confiança na usabilidade e suporte da plataforma.  
+- Mariana proporciona uma experiência de suporte clara e eficiente, consolidando a satisfação de Lucas e contribuindo para o sucesso da parceria com a plataforma.  
+- A interação destaca o papel essencial do suporte técnico no sucesso do processo de integração de novos profissionais.  
