@@ -11,6 +11,4 @@
 
 
 ## Ver problemas / Ver depoimentos / Listar centros de ajuda / Ver informações do problema
-![molic3 drawio](https://github.com/user-attachments/assets/97d9116f-7a0f-46a3-8885-f15b00712811)
-
-
+![molic3 drawio(1)](https://github.com/user-attachments/assets/81ff59df-dcd4-4e14-866f-c46f6f62e205)
