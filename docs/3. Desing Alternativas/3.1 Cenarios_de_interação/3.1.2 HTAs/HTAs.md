@@ -7,3 +7,7 @@
 
 # HTA de Suporte - validar dados
 ![hta_suporte drawio](https://github.com/user-attachments/assets/16bfd096-1837-4efe-8579-2a397d824098)
+
+
+# HTA de Informações
+![hta_informacoes drawio](https://github.com/user-attachments/assets/abe028ab-e6f8-42aa-b157-f2d4a63bbe95)
